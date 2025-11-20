@@ -2,6 +2,8 @@
 
 # Xiaomi TV
 es.tv.global.mi.com
+sgapp.tv.global.mi.com
+apply-sg.tv.global.mi.com
 
 # Atresmedia (Dominios específicos de HbbTV y servicio)
 str.svc.atresmedia.com
@@ -13,11 +15,20 @@ hbbtvloves.mediaset.es
 vesta.mediaset.es
 prelauncher.hbbtv.mediaset.es
 
+# Canales
+default.any-any.prd.api.discomax.com
+
+# Netflix
+occ.a.nflxso.net
+.nflxso.net
+nrdp.prod.ftl.netflix.com
+
 # Google (Servicio general/Chat)
 mtalk.google.com
 
 # Xiaomi TV: Dominio completo
 konograma.com
+.konograma.com
 lovestv.es
 .lovestv.es
 
