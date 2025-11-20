@@ -1,0 +1,27 @@
+# Lista de dominios bloqueados personalizada para Pi-hole
+
+# Xiaomi TV
+es.tv.global.mi.com
+
+# Atresmedia (Dominios específicos de HbbTV y servicio)
+str.svc.atresmedia.com
+hbbtv-signado.atresmedia.com
+hbbtv.atresmedia.com
+
+# Mediaset (Dominios específicos de HbbTV)
+hbbtvloves.mediaset.es
+vesta.mediaset.es
+prelauncher.hbbtv.mediaset.es
+
+# Google (Servicio general/Chat)
+mtalk.google.com
+
+# Xiaomi TV: Dominio completo
+(\.|^)konograma\.com$
+(\.|^)lovestv\.es$
+
+# Seguimiento/Métricas (Tracking/Metrics)
+(\.|^)omtrdc\.net$
+
+# Servicios de Microsoft Edge
+(\.|^)msedge\.net$
