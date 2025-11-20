@@ -17,11 +17,11 @@ prelauncher.hbbtv.mediaset.es
 mtalk.google.com
 
 # Xiaomi TV: Dominio completo
-(\.|^)konograma\.com$
-(\.|^)lovestv\.es$
+konograma\.com$
+lovestv\.es$
 
 # Seguimiento/Métricas (Tracking/Metrics)
-(\.|^)omtrdc\.net$
+omtrdc\.net$
 
 # Servicios de Microsoft Edge
-(\.|^)msedge\.net$
+msedge\.net$
