@@ -4,6 +4,8 @@
 es.tv.global.mi.com
 sgapp.tv.global.mi.com
 apply-sg.tv.global.mi.com
+g-galleryapi.micloud.xiaomi.net
+eu.global.market.xiaomi.com
 
 # Atresmedia (Dominios específicos de HbbTV y servicio)
 str.svc.atresmedia.com
@@ -25,6 +27,7 @@ nrdp.prod.ftl.netflix.com
 
 # Google (Servicio general/Chat)
 mtalk.google.com
+alt2-mtalk.google.com
 
 # Xiaomi TV: Dominio completo
 konograma.com
