@@ -6,11 +6,25 @@ sgapp.tv.global.mi.com
 apply-sg.tv.global.mi.com
 g-galleryapi.micloud.xiaomi.net
 eu.global.market.xiaomi.com
+datahub.enhanced.tools
+es.ws.enhanced.live
+d36ebey5x3jll.cloudfront.net
+mobile-data.onetrust.io
+es.usersconsents.enhanced.live
+mobile-data.onetrust.io
+polyfill-fastly.io
+es.container.enhanced.live
+mirror.init7.net
 
 # Atresmedia (Dominios específicos de HbbTV y servicio)
 str.svc.atresmedia.com
 hbbtv-signado.atresmedia.com
 hbbtv.atresmedia.com
+voddash-fy.atresmedia.com
+atres-live.atresmedia.com
+
+properties.atresplayer.com
+api.atresplayer.com
 
 # Mediaset (Dominios específicos de HbbTV)
 hbbtvloves.mediaset.es
@@ -24,6 +38,8 @@ default.any-any.prd.api.discomax.com
 occ.a.nflxso.net
 .nflxso.net
 nrdp.prod.ftl.netflix.com
+nflx-android-tv.prod.partner.netflix.net
+nrdp25.appboot.netflix.com
 
 # Google (Servicio general/Chat)
 mtalk.google.com
@@ -31,12 +47,14 @@ alt2-mtalk.google.com
 
 # Xiaomi TV: Dominio completo
 konograma.com
+cdntrans.konograma.com
 .konograma.com
 lovestv.es
 .lovestv.es
 
 # Seguimiento/Métricas (Tracking/Metrics)
 omtrdc.net
+atresmedia.hb.omtrdc.net
 .omtrdc.net
 
 # Servicios de Microsoft Edge
