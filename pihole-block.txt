@@ -23,9 +23,6 @@ hbbtv.atresmedia.com
 voddash-fy.atresmedia.com
 atres-live.atresmedia.com
 
-properties.atresplayer.com
-api.atresplayer.com
-
 # Mediaset (Dominios específicos de HbbTV)
 hbbtvloves.mediaset.es
 vesta.mediaset.es
@@ -55,6 +52,7 @@ lovestv.es
 # Seguimiento/Métricas (Tracking/Metrics)
 omtrdc.net
 atresmedia.hb.omtrdc.net
+atresmedia.sc.omtrdc.net
 .omtrdc.net
 
 # Servicios de Microsoft Edge
