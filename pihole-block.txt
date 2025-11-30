@@ -20,7 +20,6 @@ mirror.init7.net
 str.svc.atresmedia.com
 hbbtv-signado.atresmedia.com
 hbbtv.atresmedia.com
-atres-live.atresmedia.com
 
 # Mediaset (Dominios específicos de HbbTV)
 hbbtvloves.mediaset.es
