@@ -88,4 +88,5 @@ o1069899.ingest.sentry.io
 tigger-citadel.touchtype-fluency.com
 yt3.ggpht.com
 google-ohttp-relay-safebrowsing.fastly-edge.com
+aggregator.service.usercentrics.eu
 
