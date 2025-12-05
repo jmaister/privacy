@@ -16,6 +16,11 @@ polyfill-fastly.io
 es.container.enhanced.live
 mirror.init7.net
 f1.market.xiaomi.com
+weatherapi.intl.xiaomi.com
+deviceapi.micloud.xiaomi.net
+ams-l7-apm.slb.xiaomi.com
+f1.market.xiaomi.com
+
 
 # Atresmedia (Dominios específicos de HbbTV y servicio)
 str.svc.atresmedia.com
